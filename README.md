@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Amit
-- 👀 I’m interested in Data Analyst Jobs.
-- 🌱 I’m currently looking for a job in Data Analyst profile.
+- 🌱 I’m currently working in Python Developer profile.
 - 📫 You can check out my Linkedin Profile at https://www.linkedin.com/in/amit-chaudhary-71490b187/
 - My Tableau Dashboard Link- https://public.tableau.com/app/profile/amit4916
 
